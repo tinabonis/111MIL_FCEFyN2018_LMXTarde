@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="quizarreglos.AhorcadoTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-03-22T22:18:29" hostname="WINDOWS-LC2" time="0.015">
+  <properties/>
+  <testcase name="testJugada" classname="quizarreglos.AhorcadoTests" time="0.015"/>
+  <testcase name="testValidarJugadaCuandoNoLePega" classname="quizarreglos.AhorcadoTests" time="0.0"/>
+  <testcase name="testValidarJugadaCuandoLePega" classname="quizarreglos.AhorcadoTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
